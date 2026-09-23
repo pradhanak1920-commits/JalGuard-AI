@@ -1,0 +1,6 @@
+{
+  "name": "JalGuard AI",
+  "description": "AI-powered water management, shortage prediction, and procurement platform for apartment complexes and commercial facilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
